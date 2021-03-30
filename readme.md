@@ -1,10 +1,10 @@
 "# gabrielabpmarinho" 
-<div align="center">
+  <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Me chamo Gabi, sou estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR. Em busca de estágio. No momento Groomer profissional para financiar meus estudos!</div>  
+### <div align="center">Me chamo Gabi, sou estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR.  Estudando na Blue . Em busca de estágio. No momento Groomer profissional para financiar meus estudos!</div>  
   
 
 - ⚡ Estou em constante aprendizado, mas no momento me dedico ao Phyton e C#.  
